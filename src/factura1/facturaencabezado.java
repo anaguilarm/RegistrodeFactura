@@ -9,7 +9,7 @@ package factura1;
  *
  * @author Mejía Sánchez
  */
-public class facturaencabezado {
+public class facturaencabezado  extends Factura1{
     int serie;
     int numero;
     String fecha;
